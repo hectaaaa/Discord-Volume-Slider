@@ -30,3 +30,6 @@ How to Install:
 
 Stream button
 - In order for the stream button to work you have to configure you macro in the app and in discord. 
+
+
+Want to buy me a drink? https://www.paypal.com/donate/?hosted_button_id=UFBYMH79BZ6QE
