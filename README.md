@@ -12,7 +12,7 @@ Credential Management: Easily clear stored credentials to prompt for new ones on
 How to Install:
 
 1. Download the "Discord Volume Slider.zip" file
-2. Go to the Discord developer portal (if the link asks you for login and then shows the Discord app, close the window and click this link again) and create an application.
+2. Go to the Discord developer portal https://discordapp.com/developers (if the link asks you for login and then shows the Discord app, close the window and click this link again) and create an application.
    -You must use the same account in to the Developer portal as in your Discord application, otherwise it won't work. (You can add the other account as app tester though.)
    -You're setting this stuff up for your own account, not for any bot or anything else.
 3. Create a new application. You can name it however you like, for example "Discord Volume Mixer".
